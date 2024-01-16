@@ -8,13 +8,7 @@ This is a template for a React App powered with ViteJs and TailwindCSS written i
 > > export default defineConfig({
 > >   plugins: [react()],
 > >   server: {
-> > ```
-
-    port: 9999,
-
-},
-});
-
-```
-
-```
+> >     port: 9999,
+> >   },
+> > });
+> >```
